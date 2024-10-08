@@ -12,7 +12,6 @@ namespace KeyMaster_Models
         [Key]
         public Guid IdHang { get; set; }
         public string TenHang { get; set; }
-        //test
         public string TrangThai { get; set; }
     }
 }
